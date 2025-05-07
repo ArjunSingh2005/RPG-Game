@@ -1,0 +1,3 @@
+/data/home/csmajs/hzhan407/final-project-cs100_sec023_projectgroup8/RPG/CMakeFiles/RPGGame.dir
+/data/home/csmajs/hzhan407/final-project-cs100_sec023_projectgroup8/RPG/CMakeFiles/edit_cache.dir
+/data/home/csmajs/hzhan407/final-project-cs100_sec023_projectgroup8/RPG/CMakeFiles/rebuild_cache.dir
