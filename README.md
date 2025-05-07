@@ -1,4 +1,8 @@
 # Welcome to the Jungle
+Authors: \<[Hao Zhang](https://github.com/hzhan407)\>
+            \<[Thanh Giang](https://github.com/Cosidion)>
+            \<[Arjun Singh](https://github.com/ArjunSingh2005)\>
+	        \<[Rahim Chaudhry](https://github.com/rahimc21)\>
 
 ## Project Description
 * Welcome to the Jungle is a text-based (RPG) where players will step into the shoes of adventurers to complete objectives and ultimately make it out of the jungle alive. Every decision players make will shape their journey as they battle fierce creatures, make daring escapes and uncover vast treasures. The goal of the game is to not only escape the jungle, but also collect as many points as possible. This game combines rich storytelling and strategic combat to create an immersive experience for the user. This project is important to us because it will allow us to combine our technical skills with our creative thinking. This project will also allow us to showcase our ability to turn our vision into a functional, interactive game.
@@ -45,8 +49,13 @@
 
 
  ## Installation/Usage
- 1. Clone the repository:
- 2. Navigate to the project directory:
+ 1. Clone the repository: git clone https://github.com/cs100/final-project-cs100_sec023_projectgroup8.git
+ 2. Navigate to the project directory: cd final-project-cs100_sec023_projectgroup8
  3. Create a build directory and Navigate to build directory: mkdir RPG && cd RPG
  4. Run CMake: cmake ..
  5. Compile the project: make
+ 6. Run the application: ./bin/RPGGame
+
+ ## Testing
+ * The project has been tested using Google Test (gtest) framework.
+ 
