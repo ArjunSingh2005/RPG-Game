@@ -45,8 +45,8 @@
 
 
  ## Installation/Usage
- 1. Clone the repository: git clone https://github.com/cs100/final-project-cs100_sec023_projectgroup8.git
- 2. Navigate to the project directory: cd final-project-cs100_sec023_projectgroup8
+ 1. Clone the repository:
+ 2. Navigate to the project directory:
  3. Create a build directory and Navigate to build directory: mkdir RPG && cd RPG
  4. Run CMake: cmake ..
  5. Compile the project: make
